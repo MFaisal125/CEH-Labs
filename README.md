@@ -108,6 +108,7 @@ A collection of images and diagrams used throughout the notes.
 Feel free to explore, learn, and enhance your skills with these comprehensive CEH lab notes!
 
 ---
+![logo](https://github.com/MFaisal125/MFaisal125/blob/main/Github%20Banner.png)
 
 # Guide-CEH-Practicl-For-Exam
 
@@ -121,7 +122,6 @@ Feel free to explore, learn, and enhance your skills with these comprehensive CE
 - Passing Score: Min 15 Questions
 
 ---
-![logo](https://github.com/MFaisal125/MFaisal125/blob/main/Github%20Banner.png)
 
 **Exam Tips**
 
