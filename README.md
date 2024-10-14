@@ -39,7 +39,7 @@ Insights into the process of enumerating systems and networks.
 
 ## Vulnerability Analysis
 
-Learn about analyzing vulnerabilities and potential security weaknesses.
+You can learn about analyzing vulnerabilities and potential security weaknesses.
 
 ## System Hacking
 
@@ -47,7 +47,7 @@ Explanations and solutions for hacking system components.
 
 ## Malware Threats
 
-Explore notes on different types of malware and their threats.
+You can explore notes on different types of malware and their threats.
 
 ## Sniffing
 
@@ -79,7 +79,7 @@ Insights into hacking web applications and common attack vectors.
 
 ## SQL Injection
 
-Learn about SQL injection vulnerabilities and how to prevent them.
+You can learn about SQL injection vulnerabilities and how to prevent them.
 
 ## Hacking Wireless Networks
 
